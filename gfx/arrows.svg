@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="arrows.svg"
+   inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/tab_19x22.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.465079"
+     inkscape:cx="293.27616"
+     inkscape:cy="723.9008"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3147"
+     showgrid="false"
+     inkscape:window-width="1104"
+     inkscape:window-height="854"
+     inkscape:window-x="274"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3006">
+      <path
+         transform="matrix(0.08998783,0,0,-0.08998783,238.49824,302.21959)"
+         inkscape:transform-center-y="-13.420209"
+         d="m 355.06041,279.2026 -46.48897,0 -46.48897,0 23.24448,-40.26063 23.24449,-40.26063 23.24449,40.26063 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="26.840422"
+         sodipodi:r1="53.68084"
+         sodipodi:cy="252.36218"
+         sodipodi:cx="308.57144"
+         sodipodi:sides="3"
+         id="path2985"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+      <rect
+         transform="scale(1,-1)"
+         y="-278.48163"
+         x="264.62042"
+         height="14.140944"
+         width="2.8281889"
+         id="rect3755"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <image
+       y="527.86218"
+       x="-222.14285"
+       id="image3826"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAABHNCSVQICAgIfAhkiAAAALVJREFU KJGtkTEKhDAURMdly3TiDSw8gsfwDvax9RR2XkDIKYTkAKkCqa2DYCdYWMxWiixukd198Jv/YZg/ k5AkbljXFdu2Icuyu/NHHu8LklBKoSgKOOeixA6BE2sty7IkAALgOI6M5QkAIQS0bYthGHBNQGuN eZ7jHHZdRyHE6ernmaaJVVX9TTA5WtZao2kaeO9P93VdI8/zuJevge77zr7vmabp16XgbrksC6WU NMZEC74APp4zg04p0i4AAAAASUVORK5CYII= "
+       height="9"
+       width="20"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/arrow_right_16x7.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
+    <g
+       id="g3034"
+       transform="matrix(0,1,-1,0,450.54863,2.8011071)"
+       inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/arrow_left_16x7.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="path3036"
+         sodipodi:sides="3"
+         sodipodi:cx="308.57144"
+         sodipodi:cy="252.36218"
+         sodipodi:r1="53.68084"
+         sodipodi:r2="26.840422"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 355.06041,279.2026 -46.48897,0 -46.48897,0 23.24448,-40.26063 23.24449,-40.26063 23.24449,40.26063 z"
+         inkscape:transform-center-y="-13.420209"
+         transform="matrix(0.08998783,0,0,-0.08998783,238.49824,302.21959)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect3038"
+         width="2.8281889"
+         height="14.140944"
+         x="264.62042"
+         y="-278.48163"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       inkscape:export-ydpi="72"
+       inkscape:export-xdpi="72"
+       inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/arrow_right_16x7.png"
+       transform="matrix(0,1,1,0,-98.132742,-16.265219)"
+       id="g3040">
+      <path
+         transform="matrix(0.08998783,0,0,-0.08998783,238.49824,302.21959)"
+         inkscape:transform-center-y="-13.420209"
+         d="m 355.06041,279.2026 -46.48897,0 -46.48897,0 23.24448,-40.26063 23.24449,-40.26063 23.24449,40.26063 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="26.840422"
+         sodipodi:r1="53.68084"
+         sodipodi:cy="252.36218"
+         sodipodi:cx="308.57144"
+         sodipodi:sides="3"
+         id="path3042"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+      <rect
+         transform="scale(1,-1)"
+         y="-278.48163"
+         x="264.62042"
+         height="14.140944"
+         width="2.8281889"
+         id="rect3044"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3046"
+       transform="matrix(1,0,0,-1,25.962657,522.31305)"
+       inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/arrow_up_7x16.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="path3048"
+         sodipodi:sides="3"
+         sodipodi:cx="308.57144"
+         sodipodi:cy="252.36218"
+         sodipodi:r1="53.68084"
+         sodipodi:r2="26.840422"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 355.06041,279.2026 -46.48897,0 -46.48897,0 23.24448,-40.26063 23.24449,-40.26063 23.24449,40.26063 z"
+         inkscape:transform-center-y="-13.420209"
+         transform="matrix(0.08998783,0,0,-0.08998783,238.49824,302.21959)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         id="rect3050"
+         width="2.8281889"
+         height="14.140944"
+         x="264.62042"
+         y="-278.48163"
+         transform="scale(1,-1)" />
+    </g>
+    <g
+       id="g3108"
+       inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/enter.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <rect
+         y="366.3125"
+         x="263.27759"
+         height="47.124901"
+         width="3"
+         id="rect4003"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <g
+         id="g3080"
+         transform="matrix(0,1,-1,0,529.6536,146.00139)"
+         inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/arrow_left_16x7.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72">
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="path3082"
+           sodipodi:sides="3"
+           sodipodi:cx="308.57144"
+           sodipodi:cy="252.36218"
+           sodipodi:r1="53.68084"
+           sodipodi:r2="26.840422"
+           sodipodi:arg1="0.52359878"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 355.06041,279.2026 -46.48897,0 -46.48897,0 23.24448,-40.26063 23.24449,-40.26063 23.24449,40.26063 z"
+           inkscape:transform-center-y="-13.420209"
+           transform="matrix(0.08998783,0,0,-0.08998783,238.49824,302.21959)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect3084"
+           width="2.8281889"
+           height="14.140944"
+           x="264.62042"
+           y="-278.48163"
+           transform="scale(1,-1)" />
+      </g>
+    </g>
+    <g
+       id="g3147"
+       inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/tab_19x22.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <g
+         id="g3158"
+         inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/tab_19x22.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72">
+        <g
+           transform="translate(0,2.6509829)"
+           id="g3142">
+          <rect
+             y="315.73953"
+             x="214.18866"
+             height="8.9716673"
+             width="3.1428571"
+             id="rect3892"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+          <path
+             sodipodi:type="star"
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="path3058"
+             sodipodi:sides="3"
+             sodipodi:cx="308.57144"
+             sodipodi:cy="252.36218"
+             sodipodi:r1="53.68084"
+             sodipodi:r2="26.840422"
+             sodipodi:arg1="0.52359878"
+             sodipodi:arg2="1.5707963"
+             inkscape:flatsided="false"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 355.06041,279.2026 -46.48897,0 -46.48897,0 23.24448,-40.26063 23.24449,-40.26063 23.24449,40.26063 z"
+             inkscape:transform-center-y="-13.420209"
+             transform="matrix(0,0.08998783,-0.08998783,0,234.9175,292.41333)" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="rect3060"
+             width="2.8281889"
+             height="14.140944"
+             x="318.53552"
+             y="-210.14095"
+             transform="matrix(0,1,-1,0,0,0)" />
+        </g>
+        <g
+           id="g3124">
+          <g
+             id="g3062"
+             transform="matrix(0,1,-1,0,481.37928,46.61309)"
+             inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/arrow_left_16x7.png"
+             inkscape:export-xdpi="72"
+             inkscape:export-ydpi="72">
+            <path
+               sodipodi:type="star"
+               style="fill:#000000;fill-opacity:1;stroke:none"
+               id="path3064"
+               sodipodi:sides="3"
+               sodipodi:cx="308.57144"
+               sodipodi:cy="252.36218"
+               sodipodi:r1="53.68084"
+               sodipodi:r2="26.840422"
+               sodipodi:arg1="0.52359878"
+               sodipodi:arg2="1.5707963"
+               inkscape:flatsided="false"
+               inkscape:rounded="0"
+               inkscape:randomized="0"
+               d="m 355.06041,279.2026 -46.48897,0 -46.48897,0 23.24448,-40.26063 23.24449,-40.26063 23.24449,40.26063 z"
+               inkscape:transform-center-y="-13.420209"
+               transform="matrix(0.08998783,0,0,-0.08998783,238.49824,302.21959)" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:none"
+               id="rect3066"
+               width="2.8281889"
+               height="14.140944"
+               x="264.62042"
+               y="-278.48163"
+               transform="scale(1,-1)" />
+          </g>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="rect3122"
+             width="3.1428571"
+             height="8.9716673"
+             x="196.33934"
+             y="308.43753" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

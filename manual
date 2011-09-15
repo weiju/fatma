@@ -1,0 +1,61 @@
+= Fatma 1.0 Manual =
+
+== Introduction ==
+Creating keyboard layouts is a non-trivial task on any system due
+to complicated rules that need to be defined in order to generate
+various output.
+
+Under AmigaOS, such layouts are stored as AmigaDOS object files
+(Hunk files) which contain binary images of a the keymap system structure and typically generated using an assembler.
+
+Defining such layouts using assemblers is both error-prone and
+frightening to the casual user.
+
+Keyboard editors relieve the user from having to arrange the
+memory layout out required by the operating system, but the user
+will still need to know about the different types of key mappings.
+
+Fatma (Final Amiga Type Map Assembler) aims to be an editor which
+gives the user the power of using an assembler, but with the
+improved usability of a graphical user interface.
+
+== System requirements ==
+Fatma was written in Scala 2.9 and requires a Java Runtime Environment (Version 6 or greater) in order to run.
+This factually means that it does not run on an Amiga system,
+but rather on a Mac, Linux or Windows box.
+
+For building Fatma from source sbt version 0.10 or greater is
+required
+
+== Running ==
+From the command line:
+
+java -jar fatma-1.0.jar
+
+or simply double-click its icon
+
+== Basics ==
+Fatma starts with a preset keyboard layout which is equivalent to
+the "usa1" layout. Based on this layout, the user can make
+modifications to this layout and save it in a layout file.
+
+=== Mapping types ===
+Each key has a specific mapping type
+
+     * NOP
+     * Regular
+     * String
+     * Dead class
+
+NOP means that no mapping is performed when the key is pressed,
+this is the default for modifier and special keys (Ctrl, Shift,
+Amiga, etc.).
+
+The regular mapping means that each key-modifier combination
+is mapped to one output byte. Note that this mapping type
+has a modifier setting called "vanilla", more about this in
+the regular section.
+
+String mapping maps a key-modifier combination to a byte string.
+
+"Dead class" mappings are t 

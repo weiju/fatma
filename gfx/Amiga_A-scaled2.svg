@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="755.626px"
+   height="170.927px"
+   viewBox="0 0 755.626 170.927"
+   enable-background="new 0 0 755.626 170.927"
+   xml:space="preserve"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Amiga_A-scaled2.svg"><metadata
+   id="metadata3207"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3205">
+	
+	
+	
+	
+	
+	<linearGradient
+   y2="0"
+   x2="114.0107"
+   y1="167.4395"
+   x1="114.0107"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_3_">
+		<stop
+   id="stop3162"
+   style="stop-color:#41962F"
+   offset="0" />
+		<stop
+   id="stop3164"
+   style="stop-color:#54AA45"
+   offset="0.1337" />
+		<stop
+   id="stop3166"
+   style="stop-color:#FFCC27"
+   offset="0.4225" />
+		<stop
+   id="stop3168"
+   style="stop-color:#FFCC27"
+   offset="0.5348" />
+		<stop
+   id="stop3170"
+   style="stop-color:#F9661C"
+   offset="0.7807" />
+		<stop
+   id="stop3172"
+   style="stop-color:#DC421E"
+   offset="1" />
+	</linearGradient>
+	
+	<linearGradient
+   y2="0"
+   x2="139.0107"
+   y1="167.4395"
+   x1="139.0107"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_4_">
+		<stop
+   id="stop3177"
+   style="stop-color:#41962F"
+   offset="0" />
+		<stop
+   id="stop3179"
+   style="stop-color:#54AA45"
+   offset="0.1337" />
+		<stop
+   id="stop3181"
+   style="stop-color:#FFCC27"
+   offset="0.4225" />
+		<stop
+   id="stop3183"
+   style="stop-color:#FFCC27"
+   offset="0.5348" />
+		<stop
+   id="stop3185"
+   style="stop-color:#F9661C"
+   offset="0.7807" />
+		<stop
+   id="stop3187"
+   style="stop-color:#DC421E"
+   offset="1" />
+	</linearGradient>
+	
+	
+
+		
+		
+		
+		
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1186"
+   inkscape:window-height="779"
+   id="namedview3203"
+   showgrid="false"
+   inkscape:zoom="0.5"
+   inkscape:cx="697.78639"
+   inkscape:cy="85.463501"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<path
+   d="m 165.85958,95.445218 0.16206,-6.381929 -6.39757,6.381929 h 6.23551 z m 0.058,1.179589 h -7.46842 l -1.45788,1.515466 -1.64197,1.648942 c -0.31566,0.361535 -0.54399,0.688005 -0.68382,0.979985 -0.10915,0.22426 -0.15693,0.44831 -0.14671,0.67237 0.012,0.23426 0.17386,0.45152 0.48754,0.65152 0.31387,0.1998 0.82364,0.31444 1.5279,0.3439 l 0.024,0.50201 H 149.315 l 0.15497,-0.50201 c 0.63779,-0.0868 1.20045,-0.27276 1.68819,-0.55433 0.64782,-0.39079 1.56704,-1.19362 2.75707,-2.411691 l 16.37919,-16.532485 h 0.80476 l -0.002,16.002412 c 0.005,0.835902 0.012,1.341524 0.0205,1.516884 0.034,0.66554 0.21809,1.14832 0.55577,1.45073 0.33925,0.30422 0.88501,0.47978 1.64197,0.52848 l -0.1534,0.50201 h -10.48469 l 0.17208,-0.50201 c 1.03506,-0.0784 1.62841,-0.14591 1.78023,-0.20322 0.32902,-0.13567 0.6189,-0.42065 0.873,-0.85132 0.25233,-0.43288 0.3837,-1.1818 0.39058,-2.250159 l 0.0242,-2.507484 z"
+   id="path3193"
+   inkscape:connector-curvature="0"
+   inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/filled_a_19x16.png"
+   inkscape:export-xdpi="71.99942"
+   inkscape:export-ydpi="71.99942" /><path
+   d="m 218.44562,98.798618 0.15716,-6.096177 -6.1368,6.096177 h 5.97964 z m 0.0557,1.126774 h -7.16212 l -1.39865,1.447598 -1.57484,1.57512 c -0.30278,0.34535 -0.522,0.65718 -0.65764,0.9361 -0.10301,0.21422 -0.15036,0.42824 -0.13904,0.64226 0.0115,0.22379 0.16677,0.4313 0.46786,0.62235 0.3009,0.19085 0.78817,0.30036 1.46562,0.3285 l 0.0228,0.47954 h -6.94818 l 0.14733,-0.47954 c 0.61331,-0.0828 1.15304,-0.26054 1.61901,-0.5295 0.62159,-0.3733 1.50504,-1.14018 2.64657,-2.30371 L 222.7014,86.851874 h 0.77197 l -0.003,15.285896 c 0.007,0.79847 0.0132,1.28147 0.0211,1.44896 0.0314,0.63575 0.20939,1.0969 0.53312,1.38578 0.3239,0.2906 0.84911,0.45829 1.57372,0.50481 l -0.14733,0.47954 h -10.05733 l 0.16677,-0.47954 c 0.99116,-0.0749 1.56202,-0.13936 1.70785,-0.19412 0.31391,-0.12959 0.5935,-0.4018 0.83572,-0.8132 0.24374,-0.41349 0.36787,-1.12889 0.37617,-2.1494 l 0.0214,-2.395208 z"
+   id="path3201"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-width:0.97900349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   inkscape:export-filename="/Users/weiju/Projects/scala/amiga-tools/src/main/resources/images/hollow_a_19x16.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72" />
+</svg>
