@@ -89,7 +89,7 @@ class MapValuesPanel(editor: KeyMapEditor) extends JPanel(new FlowLayout(FlowLay
           editor.executeCommand(command)
         }
       } catch {
-        case e => e.printStackTrace
+        case e: Throwable => e.printStackTrace
       }
     }
   }

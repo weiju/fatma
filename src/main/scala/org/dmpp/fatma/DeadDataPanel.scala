@@ -64,7 +64,7 @@ class DeadDataPanel(editor: KeyMapEditor) extends JPanel(new FlowLayout(FlowLayo
           }
         } else "???"
       } catch {
-        case e => e.printStackTrace
+        case e: Throwable => e.printStackTrace
         "<ERROR>"
       }
     }
@@ -111,14 +111,14 @@ class DeadDataPanel(editor: KeyMapEditor) extends JPanel(new FlowLayout(FlowLayo
             try {
               keymapObject.setAllDeadDataDescriptors(originalDeadableData)
             } catch {
-              case e => e.printStackTrace
+              case e: Throwable => e.printStackTrace
             }
           }
         }
         try {
           editor.executeCommand(command)
         } catch {
-          case e => e.printStackTrace
+          case e: Throwable => e.printStackTrace
         }
       } else if (col == 2) {
         val command = new KeyboardEditorCommand {
@@ -143,7 +143,7 @@ class DeadDataPanel(editor: KeyMapEditor) extends JPanel(new FlowLayout(FlowLayo
         try {
           editor.executeCommand(command)
         } catch {
-          case e => e.printStackTrace
+          case e: Throwable => e.printStackTrace
         }
       }
     }
@@ -170,7 +170,7 @@ class DeadDataPanel(editor: KeyMapEditor) extends JPanel(new FlowLayout(FlowLayo
           buffer.toString
         }
       } catch {
-        case e => 
+        case e: Throwable => 
           e.printStackTrace
           throw e
       }
@@ -213,7 +213,7 @@ class DeadDataPanel(editor: KeyMapEditor) extends JPanel(new FlowLayout(FlowLayo
         editor.executeCommandNoUpdateUI(command)
         editor.updateKeyboardView
       } catch {
-        case e => e.printStackTrace
+        case e: Throwable => e.printStackTrace
       }
     }
   }

@@ -54,7 +54,7 @@ extends KeyButton(panel, keyCode, buttonWidth, buttonHeight, stringX) {
     try {
       g.drawString(panel.keymapObject.unshiftedValue(keyCode), x, y)
     } catch {
-      case e => e.printStackTrace
+      case e: Throwable => e.printStackTrace
     }
   }
 }

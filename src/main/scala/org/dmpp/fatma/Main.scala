@@ -49,7 +49,7 @@ object KeyboardEditor {
         }
       })
     } catch {
-      case e => e.printStackTrace
+      case e: Throwable => e.printStackTrace
     }
     println("Keymap object is: " + keymapObject)
     keymapObject
@@ -204,7 +204,7 @@ with KeyMapEditor {
               currentFile = selectedFile
               resetUI
             } catch {
-              case e => e.printStackTrace
+              case e: Throwable => e.printStackTrace
             }
           } else {
             // Show error
@@ -310,6 +310,6 @@ object Main extends App {
     val frame = new KeyboardEditor(keymapObject, isMacOs)
     frame.setVisible(true)
   } catch {
-    case e => e.printStackTrace
+    case e: Throwable => e.printStackTrace
   }
 }

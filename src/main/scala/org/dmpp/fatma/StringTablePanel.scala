@@ -38,7 +38,7 @@ class StringTablePanel(editor: KeyMapEditor) extends JPanel(new FlowLayout(FlowL
           if (stringTable(row) == null) "" else convertString(stringTable(row))
         } else "???"
       } catch {
-        case e =>
+        case e: Throwable =>
           e.printStackTrace
           "<ERROR>"
       }
