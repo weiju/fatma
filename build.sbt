@@ -4,7 +4,7 @@ version      := "1.0"
 
 organization := "org.dmpp"
 
-scalaVersion := "2.10.0-M6"
+scalaVersion := "2.10.0-M7"
 
 scalacOptions ++= Seq("-unchecked", "-deprecation")
 
