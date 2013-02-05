@@ -15,4 +15,14 @@ editor in order to learn and understand keymap design and Amiga operating concep
 Fatma is also an exercise in creating an effective user interface for a fairly
 complicated task.
 
+
 <i>-- Wei-ju Wu, August 26th 2011</i>
+
+
+## Note for people who want to use the colemak1 keymap
+
+Since github removed the file uploads feature, I put the colemak1 keymap in the
+source, under src/main/resources/keymaps.
+
+To use it, copy said file into your DEVS:keymaps folder on your Amiga system.
+
